@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         NoReboot-AMI
-// @namespace    https://console.aws.amazon.com/
+// @namespace    https://github.com/Sighmir
 // @version      0.1
 // @description  Stop you from restarting machines by mistake.
 // @author       Guilherme Caulada
